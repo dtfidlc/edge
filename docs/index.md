@@ -1,2 +1,2 @@
-Welcome to {{ project_name }}!
+Welcome test to {{ project_name }}!
 ==============================
